@@ -42,30 +42,31 @@ TOTAL NUMBER OF VOTES = 369,711
 
 Candidate Diana DeGette. She received 82.8% of the total votes; this percentage represents a total of 272,892 votes
 
-### Picture 2
-
 To get to the results in figure one, the code below was developed.
+
 The county list and county votes dictionary are listed in lines 21 and 22, respectively.
 
    Picture 2 - VS code print screen
-    
-    
+        
    ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/VS_code_page1.PNG)
     
-
-
-Add Pic2 
-
-### Picture 3
-
-Add Pic3
 The total vote code developed to print the results to the terminal can be seen in picture 3, from line 85 to line 91.
 
+   Picture 3 - VS code print screen
+        
+   ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/VS_code_page2.PNG)
 
 The county with the largest number of voters is printed to the terminal throughout the following code sequence (line 113 to 118):
 
+   Picture 4 - VS code print screen
+        
+   ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/VS_code_page3.PNG)
 
 The code developed to present the winner of the election, winning vote count, and winning percentage of votes and save these data in txt file  are shown in the picture below Lines (145 to 154) 
+
+   Picture 5 - VS code print screen
+        
+   ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/VS_code_page4.PNG)
 
 ## Election-Audit Summary:
 
