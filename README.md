@@ -13,7 +13,7 @@ The following resources were used to complete this analysis:
 - How many votes were cast in this congressional election?
 In this congressional election, a total of 369,711 votes were cast. (See picture 1)
 
-    Picture 1 - 
+    Picture 1 - General Election results saved on Election_results (txt file)
     
     ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/Election_results.PNG)
     
