@@ -50,6 +50,7 @@ The county list and county votes dictionary are listed in lines 21 and 22, respe
     Picture 2 - VS code print screen
     
     ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/VS_code_page1.PNG)
+    
 
 
 Add Pic2 
