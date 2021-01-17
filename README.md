@@ -32,7 +32,7 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
    Arapahoe: 6.7% (24,801)
    
    ---
-   - Which county had the largest number of votes?
+- Which county had the largest number of votes?
 
    The largest county was Denver with 306,055 votes
 ---
@@ -51,7 +51,6 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
    Candidate Diana DeGette. She received 82.8% of the total votes; this percentage represents a total of 272,892 votes
----
 
 To get to the results in figure one, the code below was developed.
 
