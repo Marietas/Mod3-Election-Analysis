@@ -47,6 +47,11 @@ Candidate Diana DeGette. She received 82.8% of the total votes; this percentage 
 To get to the results in figure one, the code below was developed.
 The county list and county votes dictionary are listed in lines 21 and 22, respectively.
 
+    Picture 2 - VS code print screen
+    
+    ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/VS_code_page1.PNG)
+
+
 Add Pic2 
 
 ### Picture 3
