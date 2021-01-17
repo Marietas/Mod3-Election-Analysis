@@ -19,7 +19,7 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
     
    ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/Election_results.PNG)
   
-  
+  ---
   
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
@@ -30,6 +30,7 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
    Denver: 82.8% (306,055)
 
    Arapahoe: 6.7% (24,801)
+   
    ---
    - Which county had the largest number of votes?
 
