@@ -12,11 +12,12 @@ The following resources were used to complete this analysis:
 ## Election-Audit Results 
 
 - How many votes were cast in this congressional election?
+
 In this congressional election, a total of 369,711 votes were cast. (See picture 1)
 
-    Picture 1 - General Election results saved on Election_results (txt file)
+   Picture 1 - General Election results saved on Election_results (txt file)
     
-    ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/Election_results.PNG)
+   ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/Election_results.PNG)
     
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 The total County Votes and their percentage are the following:
