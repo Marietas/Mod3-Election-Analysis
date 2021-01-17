@@ -10,6 +10,7 @@ The following resources were used to complete this analysis:
 - Software: Visual Code Version 1.52.1 
 
 ## Election-Audit Results 
+
 - How many votes were cast in this congressional election?
 In this congressional election, a total of 369,711 votes were cast. (See picture 1)
 
@@ -21,9 +22,9 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
  
 The total County Votes and their percentage are the following:
 
---Jefferson: 10.5% (38,855)
---Denver: 82.8% (306,055)
---Arapahoe: 6.7% (24,801)
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
 
 - Which county had the largest number of votes?
 
@@ -32,9 +33,9 @@ The largest county was Denver with 306,055 votes
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received
 
 The candidate results are the following:
-•	Charles Casper Stockham received 23% of the total of 85,213 votes.
-•	Diana DeGette received 82.8% of the total of 272,892 votes.
-•	Raymon Anthony Doane received 3.1% of the total of 11,606 votes.
+Charles Casper Stockham received 23% of the total of 85,213 votes.
+Diana DeGette received 82.8% of the total of 272,892 votes.
+Raymon Anthony Doane received 3.1% of the total of 11,606 votes.
  
 TOTAL NUMBER OF VOTES = 369,711
 
@@ -71,10 +72,10 @@ The code developed to present the winner of the election, winning vote count, an
 ## Election-Audit Summary:
 
 We can modify this script by applying different variables in alignment with additional questions or other data set.
-•	Smallest county turnout
+Smallest county turnout
 
 Also, this script can be used in any kind/size of election, as the script is open without any restrictions on the number of records that can identify.
-•	Add or replace county by the state to use it on the Presidential Elections
-•	Add or replace county by Country to use it on Brexit election.
+Add or replace county by the state to use it on the Presidential Elections
+Add or replace county by Country to use it on Brexit election.
 
 
