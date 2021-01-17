@@ -77,6 +77,7 @@ The code developed to present the winner of the election, winning vote count, an
    Picture 5 - VS code print screen
         
    ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/VS_code_page4.PNG)
+---
 
 ## Election-Audit Summary:
 
