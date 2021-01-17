@@ -68,6 +68,7 @@ The code developed to present the winner of the election, winning vote count, an
 ## Election-Audit Summary:
 
 We can modify this script by applying different variables in alignment with additional questions or other data set.
+
 Smallest county turnout
 
 Also, this script can be used in any kind/size of election, as the script is open without any restrictions on the number of records that can identify.
