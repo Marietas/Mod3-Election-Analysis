@@ -49,6 +49,24 @@ The county list and county votes dictionary are listed in lines 21 and 22, respe
 
 Add Pic2 
 
-The total vote code developed to print the results to the terminal can be seen in picture 3, from line 85 to line 91.
+### Picture 3
 
 Add Pic3
+The total vote code developed to print the results to the terminal can be seen in picture 3, from line 85 to line 91.
+
+
+The county with the largest number of voters is printed to the terminal throughout the following code sequence (line 113 to 118):
+
+
+The code developed to present the winner of the election, winning vote count, and winning percentage of votes and save these data in txt file  are shown in the picture below Lines (145 to 154) 
+
+## Election-Audit Summary:
+
+We can modify this script by applying different variables in alignment with additional questions or other data set.
+•	Smallest county turnout
+
+Also, this script can be used in any kind/size of election, as the script is open without any restrictions on the number of records that can identify.
+•	Add or replace county by the state to use it on the Presidential Elections
+•	Add or replace county by Country to use it on Brexit election.
+
+
