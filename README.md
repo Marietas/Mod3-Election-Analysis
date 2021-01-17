@@ -15,5 +15,5 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
 
     Picture 1 - 
     
-    ![]()
+    ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/Election_results.PNG)
     
