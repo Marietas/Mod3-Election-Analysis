@@ -8,3 +8,7 @@ The following resources were used to complete this analysis:
 - Data source: Election _results.csv
 - Software: Python Version 3.9.1
 - Software: Visual Code Version 1.52.1 
+
+## Election-Audit Results 
+- How many votes were cast in this congressional election?
+In this congressional election, a total of 369,711 votes were cast. (See picture 1)
