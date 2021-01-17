@@ -72,7 +72,8 @@ We can modify this script by applying different variables in alignment with addi
 Smallest county turnout
 
 Also, this script can be used in any kind/size of election, as the script is open without any restrictions on the number of records that can identify.
-Add or replace county by the state to use it on the Presidential Elections
-Add or replace county by Country to use it on Brexit election.
+
+- Add or replace county by the state to use it on the Presidential Elections
+- Add or replace county by Country to use it on Brexit election.
 
 
