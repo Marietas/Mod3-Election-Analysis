@@ -21,9 +21,9 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
  
 The total County Votes and their percentage are the following:
 
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+--Jefferson: 10.5% (38,855)
+--Denver: 82.8% (306,055)
+--Arapahoe: 6.7% (24,801)
 
 - Which county had the largest number of votes?
 
