@@ -20,6 +20,7 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
    ![](https://github.com/Marietas/Mod3-Election-Analysis/blob/main/Resources/Election_results.PNG)
   
   
+  
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
    The total County Votes and their percentage are the following:
@@ -34,6 +35,8 @@ In this congressional election, a total of 369,711 votes were cast. (See picture
 - Which county had the largest number of votes?
 
    The largest county was Denver with 306,055 votes
+
+---
 
 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
